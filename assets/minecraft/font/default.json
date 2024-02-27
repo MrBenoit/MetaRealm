@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tab_logo.png",
+            "ascent": 0,
+            "height": 30,
+            "chars": [
+                "\u0A74"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/score_board_logo.png",
+            "ascent": 30,
+            "height": 30,
+            "chars": [
+                "\u0F44"
+            ]
+        }
+    ]
+}
